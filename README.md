@@ -1,2 +1,2 @@
 # KAGRA
-Some documents in Kagra like diagramm for my Notebook
+Some documents in Kagra like diagrams for my Notebook
